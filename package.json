@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "duplicate-tab-remover",
+  "version": "1.0.0",
+  "description": "Removes duplicate tabs based on URL, helping you keep your browser organized",
+  "homepage_url": "https://github.com/yourusername/duplicate-tab-remover",
+  "permissions": [
+    "tabs"
+  ],
+  "icons": {
+    "48": "icon.svg",
+    "96": "icon.svg"
+  },
+  "browser_action": {
+    "default_title": "Remove Duplicate Tabs",
+    "default_icon": {
+      "16": "icon.svg",
+      "32": "icon.svg",
+      "48": "icon.svg"
+    }
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  }
+}
