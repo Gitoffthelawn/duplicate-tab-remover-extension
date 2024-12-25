@@ -3,7 +3,7 @@
   "name": "duplicate-tab-remover",
   "version": "1.0.0",
   "description": "Removes duplicate tabs based on URL, helping you keep your browser organized",
-  "homepage_url": "https://github.com/yourusername/duplicate-tab-remover",
+  "homepage_url": "https://github.com/yudataguy/duplicate-tab-remover-extension",
   "permissions": [
     "tabs"
   ],
