@@ -2,6 +2,8 @@
 
 A Firefox extension that helps you clean up your browser by removing duplicate tabs based on their URLs.
 
+[![Get the add-on from Mozilla](https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png)](https://addons.mozilla.org/firefox/addon/duplicate-tabs-remover/)
+
 ## Features
 
 - Removes duplicate tabs with a single click
